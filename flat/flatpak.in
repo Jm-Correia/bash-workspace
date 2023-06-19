@@ -1,0 +1,22 @@
+flatpak install -y runtime/org.freedesktop.Sdk/x86_64/22.08
+flatpak install -y flathub com.vscodium.codium
+flatpak install -y flathub org.apache.netbeans
+flatpak install -y flathub com.brave.Browser
+flatpak install -y flathub org.kde.kolourpaint
+flatpak install -y flathub org.gimp.GIMP
+flatpak install -y flathub com.sublimetext.three
+flatpak install -y flathub com.discordapp.Discord
+flatpak install -y flathub rest.insomnia.Insomnia
+flatpak install -y flathub org.signal.Signal
+flatpak install -y flathub org.telegram.desktop
+flatpak install -y flathub io.dbeaver.DBeaverCommunity
+flatpak install -y flathub com.jgraph.drawio.desktop
+flatpak install -y flathub com.spotify.Client
+flatpak install -y flathub org.gnome.DejaDup
+flatpak install -y flathub org.blender.Blender
+flatpak install -y flathub nl.hjdskes.gcolor3
+flatpak install -y flathub org.gnome.Epiphany
+flatpak install -y flathub com.uploadedlobster.peek
+flatpak install -y flathub org.gnome.Boxes
+flatpak install -y flathub org.soapui.SoapUI
+flatpak install -y flathub com.calibre_ebook.calibre
